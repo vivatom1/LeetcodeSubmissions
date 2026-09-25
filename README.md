@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 ## Backtracking
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
