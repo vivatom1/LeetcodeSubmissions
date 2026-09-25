@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
