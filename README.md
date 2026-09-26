@@ -7,16 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
