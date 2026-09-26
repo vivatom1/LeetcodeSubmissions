@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
 ## Backtracking
 |  |
 | ------- |
