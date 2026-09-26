@@ -5,12 +5,12 @@ public:
 
         while(i >= 0) {
             if(digits[i] < 9) {
-                digits[i]++;
+                digits[i]++;//makes it plus one
                 return digits;
             }
 
-            digits[i] = 0;
-            i--;
+            digits[i] = 0;//129-> 120 when digit is >=9
+            i--;// goes to n-1 place
         }
 
         digits.insert(digits.begin(), 1);
