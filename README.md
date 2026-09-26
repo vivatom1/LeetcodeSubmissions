@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0058-length-of-last-word) |
 ## Simulation
 |  |
 | ------- |
