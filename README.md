@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0031-next-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
