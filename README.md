@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Array
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
