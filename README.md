@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 ## Recursion
