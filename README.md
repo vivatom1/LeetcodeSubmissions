@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,8 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
