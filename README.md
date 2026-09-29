@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Array
@@ -68,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
