@@ -25,17 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Array
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
