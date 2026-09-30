@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
