@@ -17,7 +17,7 @@ public:
 
             i++;
         }
-        while(i<l && isdigit(s[i])) {
+        while(i<l && isdigit(s[i])) {//overflow check
          num = num * 10 + (s[i]- '0');
            if(sign*num>INT_MAX)
             return INT_MAX;
