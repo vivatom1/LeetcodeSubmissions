@@ -33,10 +33,8 @@ public:
 
         ListNode* returnedhead = temp->next;
 
-        // Connect old tail to old head
         tail->next = head;
 
-        // Break at new tail
         temp->next = NULL;
 
         return returnedhead;
