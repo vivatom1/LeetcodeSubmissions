@@ -5,35 +5,40 @@ public:
         if (head == NULL || head->next == NULL)
             return head;
 
-        int n = 1;
-        ListNode* tail = head;
+        ListNode* temp = head;
+        int n = 0;
 
-        while (tail->next != NULL) {
-            tail = tail->next;
+        // Find last node and count links
+        while (temp->next) {
+            temp = temp->next;
             n++;
         }
 
-        k = k % n;
+        // Actual number of nodes = n + 1
+        k = k % (n + 1);
 
         if (k == 0)
             return head;
 
-        // Make circular
-        tail->next = head;
+        // Save old tail
+        ListNode* tail = temp;
 
-        // Find new tail
-        ListNode* curr = head;
+        int jump = n - k;
+        temp = head;
 
-        for (int i = 1; i < n - k; i++) {
-            curr = curr->next;
+        while (jump) {
+            temp = temp->next;
+            jump--;
         }
 
-        // New head
-        head = curr->next;
+        ListNode* returnedhead = temp->next;
 
-        // Break circle
-        curr->next = NULL;
+        // Connect old tail to old head
+        tail->next = head;
 
-        return head;
+        // Break at new tail
+        temp->next = NULL;
+
+        return returnedhead;
     }
 };
