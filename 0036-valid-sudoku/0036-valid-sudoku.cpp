@@ -25,3 +25,7 @@ public:
         return true;
     }
 };
+/*i / 3 → which 3-row band (top/middle/bottom)
+j / 3 → which 3-column band (left/middle/right)
+* 3 → convert "row band" into "how many boxes to skip" before reaching this row band
++ → finally select the exact box within that row band*/
