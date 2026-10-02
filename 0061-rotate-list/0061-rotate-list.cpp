@@ -5,13 +5,12 @@ public:
         if (head == NULL || head->next == NULL)
             return head;
 
-        // Find length
-        int n = 0;
-        ListNode* curr = head;
+        int n = 1;
+        ListNode* tail = head;
 
-        while (curr != NULL) {
+        while (tail->next != NULL) {
+            tail = tail->next;
             n++;
-            curr = curr->next;
         }
 
         k = k % n;
@@ -19,27 +18,22 @@ public:
         if (k == 0)
             return head;
 
-        curr = head;
+        // Make circular
+        tail->next = head;
+
+        // Find new tail
+        ListNode* curr = head;
 
         for (int i = 1; i < n - k; i++) {
             curr = curr->next;
         }
 
-        
-        ListNode* newHead = curr->next;
+        // New head
+        head = curr->next;
 
-        ListNode* tail = newHead;
-
-        while (tail->next != NULL) {
-            tail = tail->next;
-        }
-
-        // Connect old tail to old head
-        tail->next = head;
-
-        // Break the list
+        // Break circle
         curr->next = NULL;
 
-        return newHead;
+        return head;
     }
 };
