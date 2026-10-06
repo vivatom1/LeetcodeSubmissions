@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0128-longest-consecutive-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0069-sqrtx) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
