@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
