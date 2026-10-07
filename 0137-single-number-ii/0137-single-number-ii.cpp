@@ -9,11 +9,9 @@ public:
             if(nums[i]==nums[i+1])
             cnt++;
             else{
-            
             if(cnt==1)
             return nums[i];
             cnt=1;
-            
             }
         } 
         if(cnt==1)
