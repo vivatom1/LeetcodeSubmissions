@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Newton's Method
