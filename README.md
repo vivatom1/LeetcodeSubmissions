@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0137-single-number-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/vivatom1/LeetcodeSubmissions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
